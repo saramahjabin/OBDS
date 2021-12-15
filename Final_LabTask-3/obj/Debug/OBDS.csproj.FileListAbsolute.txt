@@ -1,0 +1,12 @@
+C:\Users\Irin\source\repos\OBDM\Final_LabTask-3\bin\Debug\Final_LabTask-3.exe.config
+C:\Users\Irin\source\repos\OBDM\Final_LabTask-3\bin\Debug\Final_LabTask-3.exe
+C:\Users\Irin\source\repos\OBDM\Final_LabTask-3\bin\Debug\Final_LabTask-3.pdb
+C:\Users\Irin\source\repos\OBDM\Final_LabTask-3\obj\Debug\OBDS.csproj.AssemblyReference.cache
+C:\Users\Irin\source\repos\OBDM\Final_LabTask-3\obj\Debug\Final_LabTask_3.Form1.resources
+C:\Users\Irin\source\repos\OBDM\Final_LabTask-3\obj\Debug\Final_LabTask_3.Form2.resources
+C:\Users\Irin\source\repos\OBDM\Final_LabTask-3\obj\Debug\Final_LabTask_3.Form3.resources
+C:\Users\Irin\source\repos\OBDM\Final_LabTask-3\obj\Debug\Final_LabTask_3.Properties.Resources.resources
+C:\Users\Irin\source\repos\OBDM\Final_LabTask-3\obj\Debug\OBDS.csproj.GenerateResource.cache
+C:\Users\Irin\source\repos\OBDM\Final_LabTask-3\obj\Debug\OBDS.csproj.CoreCompileInputs.cache
+C:\Users\Irin\source\repos\OBDM\Final_LabTask-3\obj\Debug\Final_LabTask-3.exe
+C:\Users\Irin\source\repos\OBDM\Final_LabTask-3\obj\Debug\Final_LabTask-3.pdb
